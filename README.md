@@ -1,10 +1,10 @@
-![SOCCER CENTRAL](images/logo-1-1024x317-1-1.png)
+![SOCCER CENTRAL](logo-1-1024x317-1-1.png)
 # soccer-central-web-app
 Soccer Central es una organización innovadora, basada en datos, que aprovecha el poder de la información para desarrollar todo el potencial de la academia. Con un enfoque constante en el desarrollo de jugadores, las estrategias de entrenamiento y la optimización del rendimiento general, se aprovechan los datos para impulsar decisiones informadas, experiencias personalizadas y una cultura de excelencia dentro y fuera del campo.
 # Descripción del Proyecto
 El proyecto impulsado por Soccer Central busca obtener una visión integral del desempeño físico y táctico de los jugadores de la academia que participan dentro de la Liga "MLS Next", la cual representa la cumbre de la competición de fútbol juvenil masculino en los Estados Unidos y alberga a los mejores equipos y jugadores del país. Para dicho propósito, la academia cuenta con una diversidad de fuentes de datos que permiten dar trazabilidad a los comportamientos y rendimientos deportivos de los jugadores y equipos; sin embargo, se busca optimizar el proceso de análisis y toma de decisiones de una forma agregada.
 # Objetivo del Proyecto
-Facilitar el análisis del rendimiento deportivo de los jugadores de la academia Soccer Central mediante la creación de una base de datos normalizada por relevancia del dato y el uso de visualizadores e informes personalizados, para apoyar la mejora continua en la toma de decisiones de los interesados a desarrollarse en un período de 10 semanas.
+Facilitar el análisis del rendimiento deportivo de los jugadores de la academia Soccer Central mediante la creación de una base de datos normalizada por relevancia del dato y el uso de visualizadores e informes personalizados, para apoyar la mejora continua en la toma de decisiones de los interesados, a desarrollarse en un período de 10 semanas.
 # Objetivos Específicos
 1. Centralización de Datos: Crear una base de datos estructurada que centralice toda la información relevante de los jugadores, incluyendo datos de rendimiento, lesiones, composición corporal y académicos.
 2. Mejora de Procesos: Profesionalizar el uso de datos mediante la implementación de procesos de adquisición, control y auditoría, evitando el uso desordenado de múltiples Excel.
