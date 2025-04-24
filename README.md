@@ -1,4 +1,4 @@
-![SOCCER CENTRAL](soccer-central.png.png)
+![SOCCER CENTRAL](soccer-central.png)
 # soccer-central-web-app
 Soccer Central es una organización innovadora, basada en datos, que aprovecha el poder de la información para desarrollar todo el potencial de la academia. Con un enfoque constante en el desarrollo de jugadores, las estrategias de entrenamiento y la optimización del rendimiento general, se aprovechan los datos para impulsar decisiones informadas, experiencias personalizadas y una cultura de excelencia dentro y fuera del campo.
 # Descripción del Proyecto
